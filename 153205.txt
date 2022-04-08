@@ -1,0 +1,73 @@
+
+
+commit 4d004b9098a48a53608848cfd92b85c94ca7d48c (HEAD -> master, origin/master, origin/HEAD)
+Merge: c063dd2 adb3c98
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:55:11 2022 +0200
+
+    Merge branch 'branch2'
+
+commit c063dd2de2bf3f5110ba7b9c99c2fbfa0cbcb2c1
+Merge: 91db186 97530c3
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:46:02 2022 +0200
+
+    Merge branch 'branch1'
+------------------------------------------------------------------------------------------------------------------------------------------
+commit adb3c984da4a67c8935d0d50d1c3577815c496e8 (HEAD -> branch2, origin/branch2
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:42:30 2022 +0200
+
+    Modify item #4 and add item #6
+------------------------------------------------------------------------------------------------------------------------------------------
+commit 97530c3d01c0a8593d6fd821bfd0fa65eff64d23 (HEAD -> branch1, origin/branch1)
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:22:04 2022 +0200
+
+    Change quantity of item #5
+
+commit dcee28451f92cf94914ffd88dc0414c233f7ed05
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:15:14 2022 +0200
+--------------------------------------------------------------------------------------------------------------------------------------------
+commit 2605da762a7d7f827251f20793713a850460ca19 (HEAD -> branch2, origin/branch2)
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:25:44 2022 +0200
+
+    Modify item #4
+
+commit dcee28451f92cf94914ffd88dc0414c233f7ed05
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:15:14 2022 +0200
+---------------------------------------------------------------------------------------------------------------------------------------------
+commit 91db186144fac4d9c3025ba3a6a3964bdcd35a4f (HEAD -> master, origin/master, origin/HEAD)
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:23:24 2022 +0200
+
+    Change quantity of item #2
+
+commit dcee28451f92cf94914ffd88dc0414c233f7ed05
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:15:14 2022 +0200
+----------------------------------------------------------------------------------------------------------------------------------------------
+commit dcee28451f92cf94914ffd88dc0414c233f7ed05 (HEAD -> master, origin/master, origin/branch2, origin/branch1, origin/HEAD, branch2, branch1)
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:15:14 2022 +0200
+
+    Add quantities to the items
+
+commit 594568805a226e155ca357a9214c36d871526eaf
+Author: nenonxy <63436873+nenonnxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:13:40 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit c3f132db42847d21d479bd5f4a85dc980bf73691
+Author: nenonxy <102990206+nenonxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:09:58 2022 +0200
+
+    Update README.md
+
+commit 4f7b5435973c7ec43ce7ee9bc0442aa2ed4a996b
+Author: nenonxy <102990206+nenonxy@users.noreply.github.com>
+Date:   Fri Apr 8 20:09:08 2022 +0200
