@@ -3,3 +3,4 @@ zejtin x 2
 jajca x 3
 sirenje x 4
 jogurt x 5
+kashkaval x 6
